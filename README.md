@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Joshnanjani Mataparthi
 - 🌱 I’m a M.S. in Data Science student at Stevens Institute of Technology. Graduating in Dec 2021
-- 👀 Interested in Data Scientist/Data Analyst roles
+- 👀 Interested in Data Scientist/Data Analyst roles 
 - 📫 Reach me at mjoshnan@stevens.edu
